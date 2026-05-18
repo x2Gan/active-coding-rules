@@ -67,6 +67,7 @@ When reviewing code, lead with concrete findings ordered by severity. Include fi
 
 - Read `references/core-rules.md` for the fuller adapted checklist before non-trivial or multi-file edits.
 - Read `references/karpathy-examples.md` when examples would help calibrate assumptions, simplicity, surgical changes, or verification.
+- Read `references/matt-pocock-skills-lessons.md` when evolving this skill or when a complex task needs richer workflows for diagnosis, TDD, architecture, prototypes, planning, or durable agent briefs.
 
 ## Source Note
 
